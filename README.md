@@ -5,19 +5,19 @@ Introduction
 Created an interactive dashboard using Power BI to reveal key trends in hospital visitor data for informed decision-making. Utilized DAX for insights into patient demographics and service usage, boosting operational efficiency and patient satisfaction. This dynamic data visualization tool incorporates data modeling principles and various data sources for effective data transformation. By implementing KPIs and utilizing Power Query, healthcare professionals can explore interactive visuals that enhance resource optimization and improve patient care quality through business intelligence.
 
 
-Table of Contents
+# Table of Contents
 
 Key Technologies and Skills
 Features
 
-Key Technologies and Skills
+# Key Technologies and Skills
 
 Power BI
 Power Query Editor
 Data Analysis Expressions (DAX)
 Excel
 
-Features
+# Features
 
 Data Understanding:
 The healthcare dataset includes features like Date, ID, Gender, Age, Race, Moment (AM/PM), Weekday/Weekend, Admin Flag (Patient/Non-Patient), Department Referral, and Satisfaction Score. These fields allow for a detailed look at visitor demographics, visit timings, and department engagement, creating a strong basis for trend analysis and operational insights.
@@ -61,3 +61,11 @@ Satisfaction Score Distribution: The average satisfaction score is 5 out of 10, 
 Department Referrals: General Practice and Orthopedics patients account for 30.75%, while other departments, including Physiotherapy and Cardiology, represent 10.64%. Notably, non-referred patients constitute a substantial 58.67% of total visitors.
 
 Admin Flag Distribution: 50.04% of visitors are fully registered patients, while 49.96% are either visitors or individuals not registered for treatment. This indicates a significant portion of the hospital's traffic consists of non-registered individuals.
+
+
+![Dashboard_1](https://github.com/user-attachments/assets/270279f3-fd00-42db-9c8b-3225fb6bdf2a)
+
+![Dashboard_2](https://github.com/user-attachments/assets/7edde24e-e6f0-4187-93c7-bcdd58fefde0)
+
+
+
