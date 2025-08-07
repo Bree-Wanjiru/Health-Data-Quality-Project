@@ -9,9 +9,6 @@ Table of Contents
 
 Key Technologies and Skills
 Features
-Contributing
-License
-Contact
 
 Key Technologies and Skills
 
